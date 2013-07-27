@@ -1,4 +1,3 @@
-oregon-breweries
-================
+# Oregon Breweries
 
-A comprehensive listing of Oregon’s many beer producers.
+_A list of major & minor beer producers in Oregon_
