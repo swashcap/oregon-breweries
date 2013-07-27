@@ -1,0 +1,2343 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	version="2.0">
+	<channel>
+		<title>Oregon Breweries</title>
+		<atom:link href="http://www.swashcap.com/oregon-breweries/feed.xml" rel="self" type="application/rss+xml"/>
+		<description>A list major and minor beer producers in Oregon</description>
+		<link>http://www.swashcap.com/oregon-breweries/</link>
+		<lastBuildDate>Mon, 01 Apr 2013 02:12:14 -0800</lastBuildDate>
+		<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+
+<item>
+	<title>Hop Valley Brewing</title>
+	<link>http://www.hopvalleybrewing.com/</link>
+	<guid>188</guid>
+	<pubDate>Mon, 15 Jul 2013 12:00:00 -0800</pubDate>
+	<description>Tasting Room</description>
+	<content:encoded><![CDATA[<address><strong>Tasting Room</strong><br />
+990 W. 1st Ave.<br />
+Eugene, OR 97402</address>]]></content:encoded>
+	<category><![CDATA[ Eugene ]]></category>
+	<geo:lat>44.058190</geo:lat>
+	<geo:long>-123.1075310</geo:long>
+</item>
+<item>
+	<title>Oakshire Brewing</title>
+	<link>http://www.oakshirebrewing.com/</link>
+	<guid>187</guid>
+	<pubDate>Mon, 15 Jul 2013 12:00:00 -0800</pubDate>
+	<description>Public House</description>
+	<content:encoded><![CDATA[<address><strong>Public House</strong><br />
+207 Madison St.<br />
+Eugene OR 97402</address>]]></content:encoded>
+	<category><![CDATA[ Eugene ]]></category>
+	<geo:lat>44.05757380</geo:lat>
+	<geo:long>-123.10334040</geo:long>
+</item>
+<item>
+	<title>Falling Sky Brewing</title>
+	<link>http://fallingskybrewing.com/</link>
+	<guid>186</guid>
+	<pubDate>Mon, 15 Jul 2013 12:00:00 -0800</pubDate>
+	<description>Brewing House</description>
+	<content:encoded><![CDATA[<address>1334 Oak Alley<br />
+Eugene OR 97401</address>]]></content:encoded>
+	<category><![CDATA[ Eugene ]]></category>
+	<geo:lat>44.04515470</geo:lat>
+	<geo:long>-123.0921080</geo:long>
+</item>
+<item>
+	<title>Agrarian Ales</title>
+	<link>http://www.agales.com/</link>
+	<guid>185</guid>
+	<pubDate>Mon, 01 Apr 2013 08:42:00 -0800</pubDate>
+	<description>Agrarian Ales</description>
+	<content:encoded><![CDATA[<address>31115 W. Crossroads Lane<br />
+Eugene, OR 97408</address>]]></content:encoded>
+	<category><![CDATA[ Eugene ]]></category>
+	<geo:lat>44.18901220</geo:lat>
+	<geo:long>-123.12507820</geo:long>
+</item>
+<item>
+	<title>Laurelwood Brewing Co.</title>
+	<link>http://www.laurelwoodbrewpub.com</link>
+	<guid>181</guid>
+	<pubDate>Mon, 01 Apr 2013 08:42:00 -0800</pubDate>
+	<description>NE Portland</description>
+	<content:encoded><![CDATA[<address><strong>NE Portland</strong><br />
+5115 NE Sandy Blvd<br />
+Portland, OR 97213</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.53997620</geo:lat>
+	<geo:long>-122.61085750</geo:long>
+</item>
+<item>
+	<title>Laurelwood Brewing Co.</title>
+	<link>http://www.laurelwoodbrewpub.com</link>
+	<guid>182</guid>
+	<pubDate>Mon, 01 Apr 2013 08:42:00 -0800</pubDate>
+	<description>SE Portland</description>
+	<content:encoded><![CDATA[<address><strong>SE Portland</strong><br />
+6716 SE Milwaukie Ave<br />
+Portland, OR 97202</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.47412110</geo:lat>
+	<geo:long>-122.64869530</geo:long>
+</item>
+<item>
+	<title>Laurelwood Brewing Co.</title>
+	<link>http://www.laurelwoodbrewpub.com</link>
+	<guid>183</guid>
+	<pubDate>Mon, 01 Apr 2013 08:42:00 -0800</pubDate>
+	<description>Half Court</description>
+	<content:encoded><![CDATA[<address><strong>Half Court</strong><br />
+1 N. Center Court St.
+Portland OR 97202</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5316080</geo:lat>
+	<geo:long>-122.6672850</geo:long>
+</item>
+<item>
+	<title>Laurelwood Brewing Co.</title>
+	<link>http://www.laurelwoodbrewpub.com</link>
+	<guid>184</guid>
+	<pubDate>Mon, 01 Apr 2013 08:42:00 -0800</pubDate>
+	<description>Portland International Airport</description>
+	<content:encoded><![CDATA[<address><strong>Portland International Airport</strong><br />
+7000 Airport Way
+Portland, OR 97218</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.58740530</geo:lat>
+	<geo:long>-122.58944760</geo:long>
+</item>
+
+<item>
+	<title>4th Street Brewing Co.</title>
+	<link>http://www.mainstreetale.com</link>
+	<guid>0</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>4th Street Brewing Co.</description>
+	<content:encoded><![CDATA[<address>77 NE 4th St.<br />
+Gresham, OR 97030</address>]]></content:encoded>
+	<category><![CDATA[ Gresham ]]></category>
+	<geo:lat>45.500503</geo:lat>
+	<geo:long>-122.429975</geo:long>
+</item>
+<item>
+	<title>10 Barrel Brewing</title>
+	<link>http://www.10barrel.com/</link>
+	<guid>1</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Brewery</description>
+	<content:encoded><![CDATA[<address><strong>Brewery</strong><br />
+62970 NE 18th Street<br />
+Bend, OR 97701</address>]]></content:encoded>
+	<category><![CDATA[ Bend ]]></category>
+	<geo:lat>44.08645</geo:lat>
+	<geo:long>-121.280467</geo:long>
+</item>
+<item>
+	<title>10 Barrel Brewing</title>
+	<link>http://www.10barrel.com/</link>
+	<guid>2</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Pub</description>
+	<content:encoded><![CDATA[<address><strong>Pub</strong><br />
+1135 NW Galveston<br />
+Bend, OR 97701</address>]]></content:encoded>
+	<category><![CDATA[ Bend ]]></category>
+	<geo:lat>44.05638</geo:lat>
+	<geo:long>-121.328515</geo:long>
+</item>
+<item>
+	<title>Alameda Brewhouse</title>
+	<link>http://www.alamedabrewhouse.com</link>
+	<guid>3</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Alameda Brewhouse</description>
+	<content:encoded><![CDATA[<address>4765 NE Fremont<br />
+Portland, OR 97213</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.548506</geo:lat>
+	<geo:long>-122.61365</geo:long>
+</item>
+<item>
+	<title>Ambacht Brewing Co.</title>
+	<link>http://www.ambacht.us/</link>
+	<guid>4</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Ambacht Brewing Co.</description>
+	<content:encoded><![CDATA[<address>1055 NE 25th Ave Suite N<br />
+Hillsboro OR 97124</address>]]></content:encoded>
+	<category><![CDATA[ Hillsboro ]]></category>
+	<geo:lat>45.532376</geo:lat>
+	<geo:long>-122.957128</geo:long>
+</item>
+<item>
+	<title>Amnesia Brewing Company</title>
+	<link>http://www.amnesiabrew.com/</link>
+	<guid>5</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Amnesia Brewing Company</description>
+	<content:encoded><![CDATA[<address>832 N Beech<br />
+Portland, OR 97227</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5494963</geo:lat>
+	<geo:long>-122.6751892</geo:long>
+</item>
+<item>
+	<title>Apocalypse Brewing Company</title>
+	<link>http://apocalypsebrewing.com/</link>
+	<guid>6</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Apocalypse Brewing Company</description>
+	<content:encoded><![CDATA[<address>545 Rossanley Drive<br />
+Suite 106<br />
+Medford, OR 97501</address>]]></content:encoded>
+	<category><![CDATA[ Medford ]]></category>
+	<geo:lat>42.340178</geo:lat>
+	<geo:long>-122.89464</geo:long>
+</item>
+<item>
+	<title>Astoria Brewing Company</title>
+	<link>http://www.wetdogcafe.com/</link>
+	<guid>7</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Wet Dog Caf&#233;</description>
+	<content:encoded><![CDATA[<address><strong>Wet Dog Caf&#233;</strong><br />
+144 11th<br />
+Astoria, OR 97103</address>]]></content:encoded>
+	<category><![CDATA[ Astoria ]]></category>
+	<geo:lat>46.190165</geo:lat>
+	<geo:long>-123.831405</geo:long>
+</item>
+<item>
+	<title>Barley Brown&#8217;s Brewpub</title>
+	<link>http://barleybrowns.com/home</link>
+	<guid>8</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Barley Brown&#8217;s Brewpub</description>
+	<content:encoded><![CDATA[<address>2190 Main St.<br />
+Baker City, OR 97814</address>]]></content:encoded>
+	<category><![CDATA[ Baker City ]]></category>
+	<geo:lat>44.7788299</geo:lat>
+	<geo:long>-117.8295468</geo:long>
+</item>
+<item>
+	<title>Beer Valley Brewing Co.</title>
+	<link>http://www.beervalleybrewing.com/index.shtml</link>
+	<guid>9</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Beer Valley Brewing Co.</description>
+	<content:encoded><![CDATA[<address>937 SE 12th Ave<br />
+Ontario OR 97914</address>]]></content:encoded>
+	<category><![CDATA[ Ontario ]]></category>
+	<geo:lat>44.015396</geo:lat>
+	<geo:long>-116.952118</geo:long>
+</item>
+<item>
+	<title>Below Grade Brewing</title>
+	<link>http://www.belowgradebrewing.com/</link>
+	<guid>10</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Below Grade Brewing</description>
+	<content:encoded><![CDATA[<address>Bend, OR 97701</address>]]></content:encoded>
+	<category><![CDATA[ Bend ]]></category>
+	<geo:lat>44.0581728</geo:lat>
+	<geo:long>-121.3153096</geo:long>
+</item>
+<item>
+	<title>Bend Brewing Co.</title>
+	<link>http://www.bendbrewingco.com</link>
+	<guid>11</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Bend Brewing Co.</description>
+	<content:encoded><![CDATA[<address>1019 NW Brooks St.<br />
+Bend, OR 97701</address>]]></content:encoded>
+	<category><![CDATA[ Bend ]]></category>
+	<geo:lat>44.060438</geo:lat>
+	<geo:long>-121.313842</geo:long>
+</item>
+<item>
+	<title>Big Horse Brewery</title>
+	<link>http://www.facebook.com/group.php?gid=26326507674</link>
+	<guid>12</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Big Horse Brewery</description>
+	<content:encoded><![CDATA[<address>115 State St.<br />
+Hood River, OR 97031</address></address>]]></content:encoded>
+	<category><![CDATA[ Hood River ]]></category>
+	<geo:lat>45.7081085</geo:lat>
+	<geo:long>-121.509784</geo:long>
+</item>
+
+<item>
+	<title>Bill&#8217;s Beers</title>
+	<link>http://www.billstavernandbrewhouse.com/</link>
+	<guid>180</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Bill&#8217;s Tavern &amp; Brewhouse</description>
+	<content:encoded><![CDATA[<address><strong>Bill&#8217;s Tavern &amp; Brewhouse</strong><br />
+188 N Hemlock<br />
+Cannon Beach, OR 97110</address>]]></content:encoded>
+	<category><![CDATA[ Cannon Beach ]]></category>
+	<geo:lat>45.8980690</geo:lat>
+	<geo:long>-123.9611780</geo:long>
+</item>
+<item>
+	<title>Block 15 Restaurant &amp; Brewery</title>
+	<link>http://www.block15.com</link>
+	<guid>13</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Block 15 Restaurant &amp; Brewery</description>
+	<content:encoded><![CDATA[<address>300 SW Jefferson Ave.<br />
+Corvallis, OR 97333</address>]]></content:encoded>
+	<category><![CDATA[ Corvallis ]]></category>
+	<geo:lat>44.5625117</geo:lat>
+	<geo:long>-123.2624556</geo:long>
+</item>
+<item>
+	<title>Boneyard Brewing</title>
+	<link>http://www.boneyardbeer.com/boneyardbeer/Boneyard_Beer.html</link>
+	<guid>14</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Boneyard Brewing</description>
+	<content:encoded><![CDATA[<address>37 NW Lake Place<br />
+Suite B<br />
+Bend, OR 97701</address>]]></content:encoded>
+	<category><![CDATA[ Bend ]]></category>
+	<geo:lat>44.054047</geo:lat>
+	<geo:long>-121.308063</geo:long>
+</item>
+<item>
+	<title>Boring Brewing</title>
+	<link>http://boringbrewing.com/</link>
+	<guid>15</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Boring Brewing</description>
+	<content:encoded><![CDATA[<address>13503 SE Richey Rd<br />
+Boring, OR 97009</address>]]></content:encoded>
+	<category><![CDATA[ Boring ]]></category>
+	<geo:lat>45.425535</geo:lat>
+	<geo:long>-122.375229</geo:long>
+</item>
+<item>
+	<title>Breakside Taproom &amp; Brewery</title>
+	<link>http://www.breakside.com/</link>
+	<guid>16</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Breakside Taproom &amp; Brewery</description>
+	<content:encoded><![CDATA[<address>5821 SE International Way<br />
+Milwaukie, OR 97222</address>]]></content:encoded>
+	<category><![CDATA[ Milwaukie ]]></category>
+	<geo:lat>45.431936</geo:lat>
+	<geo:long>-122.603328</geo:long>
+</item>
+<item>
+	<title>Breakside Brewery</title>
+	<link>http://www.breaksidebrews.com/</link>
+	<guid>17</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Breakside Brewery</description>
+	<content:encoded><![CDATA[<address>820 NE Dekum<br />
+Portland OR 97211</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.571481</geo:lat>
+	<geo:long>-122.656746</geo:long>
+</item>
+<item>
+	<title>Brewers Union Local 180</title>
+	<link>http://www.brewersunion.com/about/index.php</link>
+	<guid>18</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Brewers Union Local 180</description>
+	<content:encoded><![CDATA[<address>48329 E. 1st St.<br />
+Oakridge, OR 97463</address>]]></content:encoded>
+	<category><![CDATA[ Oakridge ]]></category>
+	<geo:lat>43.74797</geo:lat>
+	<geo:long>-122.456846</geo:long>
+</item>
+<item>
+	<title>Bricktowne Brewing Company</title>
+	<link>http://www.bricktownebeer.com/</link>
+	<guid>19</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Bricktowne Brewing Company</description>
+	<content:encoded><![CDATA[<address>111 E. 8th St. / 44 South Central<br />
+Medford, OR 97501</address>]]></content:encoded>
+	<category><![CDATA[ Medford ]]></category>
+	<geo:lat>42.32618</geo:lat>
+	<geo:long>-122.871193</geo:long>
+</item>
+<item>
+	<title>BridgePort Brewpub</title>
+	<link>http://www.bridgeportbrew.com</link>
+	<guid>20</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>BridgePort Brewpub</description>
+	<content:encoded><![CDATA[<address>1313 NW Marshall<br />
+Portland, OR 97209</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.531115</geo:lat>
+	<geo:long>-122.684957</geo:long>
+</item>
+<item>
+	<title>Burnside Brewing Co.</title>
+	<link>http://www.burnsidebrewco.com/</link>
+	<guid>21</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Burnside Brewing Co.</description>
+	<content:encoded><![CDATA[<address>701 E Burnside<br />
+Portland, OR	97214</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.523302</geo:lat>
+	<geo:long>-122.658365</geo:long>
+</item>
+<item>
+	<title>Calapooia Brewing Co.</title>
+	<link>http://www.calapooiabrewing.com</link>
+	<guid>22</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Calapooia Brewing Co.</description>
+	<content:encoded><![CDATA[<address>140 Hill St. NE<br />
+Albany, OR 97321</address>]]></content:encoded>
+	<category><![CDATA[ Albany ]]></category>
+	<geo:lat>44.6392591</geo:lat>
+	<geo:long>-123.0938729</geo:long>
+</item>
+<item>
+	<title>Caldera Brewing Co</title>
+	<link>http://www.calderabrewing.com</link>
+	<guid>23</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Caldera Brewing Co</description>
+	<content:encoded><![CDATA[<address>540 Clover Lane<br />
+Ashland, OR 97520-3709</address>]]></content:encoded>
+	<category><![CDATA[ Ashland ]]></category>
+	<geo:lat>42.184409</geo:lat>
+	<geo:long>-122.663147</geo:long>
+</item>
+<item>
+	<title>Caldera Tap House</title>
+	<link>http://www.calderabrewing.com/Page.asp?NavID=21</link>
+	<guid>24</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Caldera Tap House</description>
+	<content:encoded><![CDATA[<address>31 Water Street #2<br />
+Ashland, Oregon 97520</address>]]></content:encoded>
+	<category><![CDATA[ Ashland ]]></category>
+	<geo:lat>42.1991365</geo:lat>
+	<geo:long>-122.7148594</geo:long>
+</item>
+<item>
+	<title>Cascade Brewing Barrel House</title>
+	<link>http://www.cascadebrewingbarrelhouse.com/</link>
+	<guid>25</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Cascade Brewing Barrel House</description>
+	<content:encoded><![CDATA[<address>939 SE Belmont<br />
+Portland, OR 97214</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5166688</geo:lat>
+	<geo:long>-122.6558472</geo:long>
+</item>
+<item>
+	<title>Cascade Lakes Brewing</title>
+	<link>http://www.cascadelakes.com</link>
+	<guid>26</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Brewery</description>
+	<content:encoded><![CDATA[<address><strong>Brewery</strong><br />
+2141 SW 1st St.<br />
+Redmond, OR 97756</address>]]></content:encoded>
+	<category><![CDATA[ Redmond ]]></category>
+	<geo:lat>44.256031</geo:lat>
+	<geo:long>-121.169251</geo:long>
+</item>
+<item>
+	<title>Cascade Lakes Brewing</title>
+	<link>http://www.cascadelakes.com</link>
+	<guid>27</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>7th Street Brewhouse</description>
+	<content:encoded><![CDATA[<address><strong>7th Street Brewhouse</strong><br />
+855 SW 7th St.<br />
+Redmond, OR 97756</address>]]></content:encoded>
+	<category><![CDATA[ Redmond ]]></category>
+	<geo:lat>44.268783</geo:lat>
+	<geo:long>-121.175632</geo:long>
+</item>
+<item>
+	<title>Cascade Lakes Brewing</title>
+	<link>http://www.cascadelakes.com</link>
+	<guid>28</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Cascade West Grub and Ale House</description>
+	<content:encoded><![CDATA[<address><strong>Cascade West Grub and Ale House</strong><br />
+64 SW Century Dr.<br />
+Bend, OR 97701</address>]]></content:encoded>
+	<category><![CDATA[ Bend ]]></category>
+	<geo:lat>44.0505057</geo:lat>
+	<geo:long>-121.3314933</geo:long>
+</item>
+<item>
+	<title>Cascade Lakes Brewing</title>
+	<link>http://www.cascadelakes.com</link>
+	<guid>29</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>The Lodge</description>
+	<content:encoded><![CDATA[<address><strong>The Lodge</strong><br />
+1441 SW Chandler Ave. #100<br />
+Bend, OR 97702</address>]]></content:encoded>
+	<category><![CDATA[ Bend ]]></category>
+	<geo:lat>44.0413796</geo:lat>
+	<geo:long>-121.3327981</geo:long>
+</item>
+<item>
+	<title>Cascade Lakes Brewing</title>
+	<link>http://www.cascadelakes.com</link>
+	<guid>30</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Tumalo Tavern</description>
+	<content:encoded><![CDATA[<address><strong>Tumalo Tavern</strong><br />
+64670 Strickler #103<br />
+Bend, OR 97701</address>]]></content:encoded>
+	<category><![CDATA[ Bend ]]></category>
+	<geo:lat>44.148158</geo:lat>
+	<geo:long>-121.333679</geo:long>
+</item>
+<item>
+	<title>Chehalem Valley Brewing Company</title>
+	<link>http://cvbrewing.com/</link>
+	<guid>31</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Chehalem Valley Brewing Company</description>
+	<content:encoded><![CDATA[<address>2515 B Portland Rd<br />
+Newberg OR 97132</address>]]></content:encoded>
+	<category><![CDATA[ Newberg ]]></category>
+	<geo:lat>45.305593</geo:lat>
+	<geo:long>-122.9532284</geo:long>
+</item>
+<item>
+	<title>Claim 52 Brewing</title>
+	<link>https://www.facebook.com/Claim52Brewing</link>
+	<guid>32</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Claim 52 Brewing</description>
+	<content:encoded><![CDATA[<address>1030 Tyinn St.-Ste 1<br />
+Eugene OR 97402</address>]]></content:encoded>
+	<category><![CDATA[ Eugene ]]></category>
+	<geo:lat>44.048916</geo:lat>
+	<geo:long>-123.138321</geo:long>
+</item>
+<item>
+	<title>Coalition Brewing</title>
+	<link>http://www.coalitionbrewing.com/</link>
+	<guid>33</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Coalition Brewing</description>
+	<content:encoded><![CDATA[<address>2724 SE Ankeny St<br />
+Portland, OR 97214</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5221296</geo:lat>
+	<geo:long>-122.6377714</geo:long>
+</item>
+<item>
+	<title>Columbia River Brewing Co.</title>
+	<link>http://www.columbiariverbrewpub.com/home/</link>
+	<guid>34</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Columbia River Brewing Co.</description>
+	<content:encoded><![CDATA[<address>1728 NE 40th Ave<br />
+Portland, OR 97213</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5357073</geo:lat>
+	<geo:long>-122.6218631</geo:long>
+</item>
+<item>
+	<title>Crux Fermentation Project</title>
+	<link>http://cruxfermentation.com/#</link>
+	<guid>35</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Crux Fermentation Project</description>
+	<content:encoded><![CDATA[<address>50 SW Division St<br />
+Bend, OR 97702</address>]]></content:encoded>
+	<category><![CDATA[ Bend ]]></category>
+	<geo:lat>44.0507457</geo:lat>
+	<geo:long>-121.3078795</geo:long>
+</item>
+<item>
+	<title>Deschutes</title>
+	<link>http://www.deschutesbrewery.com</link>
+	<guid>36</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Brewery</description>
+	<content:encoded><![CDATA[<address><strong>Brewery</strong><br />
+901 SW Simpson<br />
+Bend, OR 97702</address>]]></content:encoded>
+	<category><![CDATA[ Bend ]]></category>
+	<geo:lat>44.0473792</geo:lat>
+	<geo:long>-121.3224625</geo:long>
+</item>
+<item>
+	<title>Deschutes</title>
+	<link>http://www.deschutesbrewery.com</link>
+	<guid>37</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Brewery &amp; Public House</description>
+	<content:encoded><![CDATA[<address><strong>Brewery &amp; Public House</strong><br />
+1044 NW Bond St.<br />
+Bend, OR 97701</address>]]></content:encoded>
+	<category><![CDATA[ Bend ]]></category>
+	<geo:lat>44.059398</geo:lat>
+	<geo:long>-121.311288</geo:long>
+</item>
+<item>
+	<title>Deschutes</title>
+	<link>http://www.deschutesbrewery.com</link>
+	<guid>38</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Brewery &amp; Portland Pub</description>
+	<content:encoded><![CDATA[<address><strong>Brewery &amp; Portland Pub</strong><br />
+210 NW 11th Ave.<br />
+Portland, OR 97209</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5246302</geo:lat>
+	<geo:long>-122.6820773</geo:long>
+</item>
+<item>
+	<title>Double Mountain Brewery &amp; Taproom</title>
+	<link>http://www.doublemountainbrewery.com</link>
+	<guid>39</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Double Mountain Brewery &amp; Taproom</description>
+	<content:encoded><![CDATA[<address>8 Fourth St.<br />
+Hood River, OR 97031</address>]]></content:encoded>
+	<category><![CDATA[ Hood River ]]></category>
+	<geo:lat>45.7099797</geo:lat>
+	<geo:long>-121.5144842</geo:long>
+</item>
+<item>
+	<title>Dragon&#8217;s Gate Brewery</title>
+	<link>http://www.dragonsgatebrewery.com/</link>
+	<guid>40</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Dragon&#8217;s Gate Brewery</description>
+	<content:encoded><![CDATA[<address>52288 Sunquist Rd.<br />
+Milton Freewater, OR 97862</address>]]></content:encoded>
+	<category><![CDATA[ Milton Freewater ]]></category>
+	<geo:lat>45.9876641</geo:lat>
+	<geo:long>-118.4565421</geo:long>
+</item>
+<item>
+	<title>Fire Mountain Brewery</title>
+	<link>http://firemountainbrewery.com/</link>
+	<guid>41</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Fire Mountain Brewery</description>
+	<content:encoded><![CDATA[<address>POB 692<br />
+Carlton, OR 97111</address>]]></content:encoded>
+	<category><![CDATA[ Carlton ]]></category>
+	<geo:lat>45.2942822</geo:lat>
+	<geo:long>-123.1764949</geo:long>
+</item>
+<item>
+	<title>Fire on the Mountain Brewing</title>
+	<link>http://dev.portlandwings.com/index.php</link>
+	<guid>42</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Fire on the Mountain Brewing</description>
+	<content:encoded><![CDATA[<address>3437 NE 57th Ave<br />
+Portland, OR 97213</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5478249</geo:lat>
+	<geo:long>-122.6045888</geo:long>
+</item>
+<item>
+	<title>Flat Tail Brewing</title>
+	<link>http://www.flattailcorvallis.com/</link>
+	<guid>43</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Flat Tail Brewing</description>
+	<content:encoded><![CDATA[<address>202 SW 1st Ave<br />
+Corvallis, OR 97333</address>]]></content:encoded>
+	<category><![CDATA[ Corvallis ]]></category>
+	<geo:lat>44.5628007</geo:lat>
+	<geo:long>-123.2593202</geo:long>
+</item>
+<item>
+	<title>Fort George Brewery + Public House</title>
+	<link>http://www.fortgeorgebrewery.com</link>
+	<guid>44</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Fort George Brewery + Public House</description>
+	<content:encoded><![CDATA[<address>1483 Duane St.<br />
+Astoria, OR 97103</address>]]></content:encoded>
+	<category><![CDATA[ Astoria ]]></category>
+	<geo:lat>46.1885249</geo:lat>
+	<geo:long>-123.8275961</geo:long>
+</item>
+<item>
+	<title>Full Sail Brewing Company</title>
+	<link>http://www.fullsailbrewing.com</link>
+	<guid>45</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Full Sail Brewing Company</description>
+	<content:encoded><![CDATA[<address>506 Columbia St.<br />
+Hood River, OR 97031</address>]]></content:encoded>
+	<category><![CDATA[ Hood River ]]></category>
+	<geo:lat>45.7103918</geo:lat>
+	<geo:long>-121.5160282</geo:long>
+</item>
+<item>
+	<title>Gilgamesh Brewing</title>
+	<link>http://gilgameshbrewing.com/</link>
+	<guid>46</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Gilgamesh Brewing</description>
+	<content:encoded><![CDATA[<address>2953 Ridgeway Dr SE<br />
+Turner, OR 97392</address>]]></content:encoded>
+	<category><![CDATA[ Turner ]]></category>
+	<geo:lat>44.8105199</geo:lat>
+	<geo:long>-123.002393</geo:long>
+</item>
+<item>
+	<title>Golden Valley Brewery and Pub</title>
+	<link>http://www.goldenvalleybrewery.com</link>
+	<guid>47</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Golden Valley Brewery and Pub</description>
+	<content:encoded><![CDATA[<address>980 E. 4th<br />
+McMinnville, OR 97128</address>]]></content:encoded>
+	<category><![CDATA[ McMinnville ]]></category>
+	<geo:lat>45.2102305</geo:lat>
+	<geo:long>-123.1887635</geo:long>
+</item>
+<item>
+	<title>Good Life Brewing Company</title>
+	<link>http://www.goodlifebrewing.com/</link>
+	<guid>48</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Good Life Brewing Company</description>
+	<content:encoded><![CDATA[<address>70 SW Century Dr. 100-464<br />
+Bend OR 97702</address>]]></content:encoded>
+	<category><![CDATA[ Bend ]]></category>
+	<geo:lat>44.0506115</geo:lat>
+	<geo:long>-121.3306451</geo:long>
+</item>
+<item>
+	<title>Green Dragon</title>
+	<link>http://www.pdxgreendragon.com/</link>
+	<guid>49</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Green Dragon</description>
+	<content:encoded><![CDATA[<address>928 SE 9th Ave<br />
+Portland OR 97214</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.515936</geo:lat>
+	<geo:long>-122.6567002</geo:long>
+</item>
+<item>
+	<title>Hair of the Dog Brewing Company</title>
+	<link>http://www.hairofthedog.com</link>
+	<guid>50</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Hair of the Dog Brewing Company</description>
+	<content:encoded><![CDATA[<address>61 SE Yamhill St<br />
+Portland, OR 97214</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5159089</geo:lat>
+	<geo:long>-122.6655446</geo:long>
+</item>
+<item>
+	<title>Heater Allen Brewery</title>
+	<link>http://www.heaterallen.com</link>
+	<guid>51</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Heater Allen Brewery</description>
+	<content:encoded><![CDATA[<address>907 NE 10th Ave.<br />
+McMinnville, OR 97128</address>]]></content:encoded>
+	<category><![CDATA[ McMinnville ]]></category>
+	<geo:lat>45.214343</geo:lat>
+	<geo:long>-123.1886165</geo:long>
+</item>
+<item>
+	<title>Hop Valley Brewing</title>
+	<link>http://www.hopvalleybrewing.com/</link>
+	<guid>52</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Brewery &amp; Restaurant</description>
+	<content:encoded><![CDATA[<address><strong>Brewery &amp; Restaurant</strong><br />
+980 Kruse Way<br />
+Springfield, OR 97477</address>]]></content:encoded>
+	<category><![CDATA[ Springfield ]]></category>
+	<geo:lat>44.0827303</geo:lat>
+	<geo:long>-123.0398442</geo:long>
+</item>
+<item>
+	<title>Hopworks</title>
+	<link>http://www.hopworksbeer.com</link>
+	<guid>53</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Urban Brewery</description>
+	<content:encoded><![CDATA[<address><strong>Urban Brewery</strong><br />
+2944 SE Powell<br />
+Portland, OR 97202</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.496994</geo:lat>
+	<geo:long>-122.634968</geo:long>
+</item>
+<item>
+	<title>Hopworks</title>
+	<link>http://www.hopworksbeer.com</link>
+	<guid>54</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Bikebar</description>
+	<content:encoded><![CDATA[<address><strong>Bikebar</strong><br />
+3947 N. Williams Ave<br />
+Portland, OR 97227</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5513844</geo:lat>
+	<geo:long>-122.6667381</geo:long>
+</item>
+<item>
+	<title>Humble Brewing</title>
+	<link>http://humblebrewing.com/</link>
+	<guid>55</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Humble Brewing</description>
+	<content:encoded><![CDATA[<address>7219 N Hurst Ave<br />
+Portland OR 97203</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.575507</geo:lat>
+	<geo:long>-122.709319</geo:long>
+</item>
+<item>
+	<title>Lompoc Brewing</title>
+	<link>http://www.newoldlompoc.com</link>
+	<guid>59</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>5th Quadrant</description>
+	<content:encoded><![CDATA[<address><strong>5th Quadrant</strong><br />
+3901-B N Williams Ave.<br />
+Portland, OR 97217</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5509668</geo:lat>
+	<geo:long>-122.6668516</geo:long>
+</item>
+<item>
+	<title>Lompoc Brewing</title>
+	<link>http://www.newoldlompoc.com</link>
+	<guid>60</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Hedge House</description>
+	<content:encoded><![CDATA[<address><strong>Hedge House</strong><br />
+3412 SE Division St.<br />
+Portland, OR 97202</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.504579</geo:lat>
+	<geo:long>-122.629178</geo:long>
+</item>
+<item>
+	<title>Lompoc Brewing</title>
+	<link>http://www.newoldlompoc.com</link>
+	<guid>61</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>New Old Lompoc Brewery</description>
+	<content:encoded><![CDATA[<address><strong>New Old Lompoc Brewery</strong><br />
+1616 NW 23rd<br />
+Portland, OR 97210</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5343582</geo:lat>
+	<geo:long>-122.6986946</geo:long>
+</item>
+<item>
+	<title>Lompoc Brewing</title>
+	<link>http://www.newoldlompoc.com</link>
+	<guid>62</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Oaks Bottom Public House</description>
+	<content:encoded><![CDATA[<address><strong>Oaks Bottom Public House</strong><br />
+1621 SE Bybee Blvd.<br />
+Portland, OR 97202</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.4739379</geo:lat>
+	<geo:long>-122.649382</geo:long>
+</item>
+<item>
+	<title>Lompoc Brewing</title>
+	<link>http://www.newoldlompoc.com</link>
+	<guid>63</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Sidebar</description>
+	<content:encoded><![CDATA[<address><strong>Sidebar</strong><br />
+3901-A N Williams Ave.<br />
+Portland, OR 97217</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5509668</geo:lat>
+	<geo:long>-122.6668516</geo:long>
+</item>
+<item>
+	<title>Lucky Labrador</title>
+	<link>http://www.luckylab.com</link>
+	<guid>64</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Beer Hall</description>
+	<content:encoded><![CDATA[<address><strong>Beer Hall</strong><br />
+1945 NW Quimby<br />
+Portland, OR 97209</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5335765</geo:lat>
+	<geo:long>-122.6920597</geo:long>
+</item>
+<item>
+	<title>Lucky Labrador</title>
+	<link>http://www.luckylab.com</link>
+	<guid>65</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Brewery</description>
+	<content:encoded><![CDATA[<address><strong>Brewery</strong><br />
+915 SE Hawthorne<br />
+Portland, OR 97214</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5122448</geo:lat>
+	<geo:long>-122.6563384</geo:long>
+</item>
+<item>
+	<title>Lucky Labrador</title>
+	<link>http://www.luckylab.com</link>
+	<guid>66</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Public House</description>
+	<content:encoded><![CDATA[<address><strong>Public House</strong><br />
+7675 SW Capitol Hwy<br />
+Portland, OR 97219</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.4688383</geo:lat>
+	<geo:long>-122.7095997</geo:long>
+</item>
+<item>
+	<title>Lucky Labrador</title>
+	<link>http://www.luckylab.com/html/story.html</link>
+	<guid>67</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Taproom</description>
+	<content:encoded><![CDATA[<address><strong>Taproom</strong><br />
+1700 N Killingsworth<br />
+Portland, OR 97217</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.562554</geo:lat>
+	<geo:long>-122.685083</geo:long>
+</item>
+<item>
+	<title>MacTarnahan&#8217;s Brewing Taproom</title>
+	<link>http://www.macsbeer.com</link>
+	<guid>68</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>MacTarnahan&#8217;s Brewing Taproom</description>
+	<content:encoded><![CDATA[<address>2730 NW 31st Ave.<br />
+Portland, OR 97210</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5413215</geo:lat>
+	<geo:long>-122.7131566</geo:long>
+</item>
+<item>
+	<title>The Mash Tun</title>
+	<link>http://themashtunbrewpub.com/</link>
+	<guid>69</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>The Mash Tun</description>
+	<content:encoded><![CDATA[<address>2204 NE Alberta St<br />
+Portland, OR 97211</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5589733</geo:lat>
+	<geo:long>-122.642739</geo:long>
+</item>
+<item>
+	<title>Max&#8217;s Fanno Creek Brewpub</title>
+	<link>http://www.fannocreekbrewpub.com</link>
+	<guid>70</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Max&#8217;s Fanno Creek Brewpub</description>
+	<content:encoded><![CDATA[<address>12562 SW Main St.<br />
+Tigard, OR 97223</address>]]></content:encoded>
+
+	<geo:lat>45.428938</geo:lat>
+	<geo:long>-122.773638</geo:long>
+</item>
+<item>
+	<title>McCormick &amp; Schmicks&#8217;s</title>
+	<link>http://www.fullsailbrewing.com</link>
+	<guid>71</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>McCormick &amp; Schmicks&#8217;s</description>
+	<content:encoded><![CDATA[<address>Harborside Restaurant and Pilsener Room +<br />
+Full Sail Brewery at Riverplace<br />
+0307 SW Montgomery<br />
+Portland, OR 97201</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.505603</geo:lat>
+	<geo:long>-122.6882145</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>72</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Bagdad Theater</description>
+	<content:encoded><![CDATA[<address><strong>Bagdad Theater</strong><br />
+3702 SE Hawthorne Blvd.<br />
+Portland, OR 97214</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5119569</geo:lat>
+	<geo:long>-122.6256708</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>73</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Barley Mill Pub</description>
+	<content:encoded><![CDATA[<address><strong>Barley Mill Pub</strong><br />
+1629 SE Hawthorne Blvd.<br />
+Portland, OR 97214</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5123116</geo:lat>
+	<geo:long>-122.6487636</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>74</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Blue Moon Tavern &amp; Grill</description>
+	<content:encoded><![CDATA[<address><strong>Blue Moon Tavern &amp; Grill</strong><br />
+432 NW 21st Ave.<br />
+Portland, OR 97209</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5262338</geo:lat>
+	<geo:long>-122.6942627</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>75</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Boon&#8217;s Treasury</description>
+	<content:encoded><![CDATA[<address><strong>Boon&#8217;s Treasury</strong><br />
+888 Liberty St. NE<br />
+Salem, OR 97301</address>]]></content:encoded>
+	<category><![CDATA[ Salem ]]></category>
+	<geo:lat>44.94822</geo:lat>
+	<geo:long>-123.033357</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>76</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Cornelius Pass Roadhouse &amp; Imbrie Hall</description>
+	<content:encoded><![CDATA[<address><strong>Cornelius Pass Roadhouse &amp; Imbrie Hall</strong><br />
+4045 NW Cornelius Pass Rd.<br />
+Hillsboro, OR 97124</address>]]></content:encoded>
+	<category><![CDATA[ Hillsboro ]]></category>
+	<geo:lat>45.5228939</geo:lat>
+	<geo:long>-122.989827</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>77</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Crystal Ballroom &amp; Lola&#8217;s Room</description>
+	<content:encoded><![CDATA[<address><strong>Crystal Ballroom &amp; Lola&#8217;s Room</strong><br />
+1332 W Burnside<br />
+Portland, OR 97209</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.522899</geo:lat>
+	<geo:long>-122.6847925</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>78</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>East 19th Steet Caf&#233;</description>
+	<content:encoded><![CDATA[<address><strong>East 19th Steet Caf&#233;</strong><br />
+1485 E 19th Ave.<br />
+Eugene, OR 97403</address>]]></content:encoded>
+	<category><![CDATA[ Eugene ]]></category>
+	<geo:lat>44.039229</geo:lat>
+	<geo:long>-123.070053</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>79</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Edgefield</description>
+	<content:encoded><![CDATA[<address><strong>Edgefield</strong><br />
+2126 SW Halsey St.<br />
+Troutdale, OR 97060</address>]]></content:encoded>
+	<category><![CDATA[ Troutdale ]]></category>
+	<geo:lat>45.537133</geo:lat>
+	<geo:long>-122.408745</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>80</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Fulton Pub &amp; Brewery</description>
+	<content:encoded><![CDATA[<address><strong>Fulton Pub &amp; Brewery</strong><br />
+0618 SW Nebraska St.<br />
+Portland, OR 97201</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.4772342</geo:lat>
+	<geo:long>-122.6727352</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>81</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Grand Lodge</description>
+	<content:encoded><![CDATA[<address><strong>Grand Lodge</strong><br />
+3505 Pacific Ave.<br />
+Forest Grove, OR 97116</address>]]></content:encoded>
+	<category><![CDATA[ Forest Grove ]]></category>
+	<geo:lat>45.5214282</geo:lat>
+	<geo:long>-123.0860996</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>82</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Greater Trumps</description>
+	<content:encoded><![CDATA[<address><strong>Greater Trumps</strong><br />
+1520 SE 37th Ave.<br />
+Portland, OR 97214</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5116269</geo:lat>
+	<geo:long>-122.6256595</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>83</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>High Street Brewery &amp; Caf&#233;</description>
+	<content:encoded><![CDATA[<address><strong>High Street Brewery &amp; Caf&#233;</strong><br />
+1243 High St.<br />
+Eugene, OR 97401</address>]]></content:encoded>
+	<category><![CDATA[ Eugene ]]></category>
+	<geo:lat>44.0461476</geo:lat>
+	<geo:long>-123.0879924</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>84</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Highland Pub &amp; Brewery</description>
+	<content:encoded><![CDATA[<address><strong>Highland Pub &amp; Brewery</strong><br />
+4225 SE 182nd Ave.<br />
+Gresham, OR 97030</address>]]></content:encoded>
+	<category><![CDATA[ Gresham ]]></category>
+	<geo:lat>45.4915785</geo:lat>
+	<geo:long>-122.4757292</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>85</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Hillsdale Brewery &amp; Public House</description>
+	<content:encoded><![CDATA[<address><strong>Hillsdale Brewery &amp; Public House</strong><br />
+1505 SW Sunset Blvd.<br />
+Portland, OR 97201</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.4792404</geo:lat>
+	<geo:long>-122.6938095</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>86</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Hotel Oregon</description>
+	<content:encoded><![CDATA[<address><strong>Hotel Oregon</strong><br />
+310 NE Evans St.<br />
+McMinnville, OR 97128</address>]]></content:encoded>
+	<category><![CDATA[ McMinnville ]]></category>
+	<geo:lat>45.2100984</geo:lat>
+	<geo:long>-123.1944296</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>87</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>John Barleycorns</description>
+	<content:encoded><![CDATA[<address><strong>John Barleycorns</strong><br />
+14610 SW Sequoia Pkwy.<br />
+Tigard, OR 97223</address>]]></content:encoded>
+	<category><![CDATA[ Tigard ]]></category>
+	<geo:lat>45.4143596</geo:lat>
+	<geo:long>-122.7462527</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>88</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Lighthouse Brewpub</description>
+	<content:encoded><![CDATA[<address><strong>Lighthouse Brewpub</strong><br />
+4157 N Hwy. 101, Suite 117<br />
+Lincoln City, OR 97367</address>]]></content:encoded>
+	<category><![CDATA[ Lincoln City ]]></category>
+	<geo:lat>44.9299837</geo:lat>
+	<geo:long>-124.01791</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>89</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Market Street Pub</description>
+	<content:encoded><![CDATA[<address><strong>Market Street Pub</strong><br />
+1526 SW 10th Ave.<br />
+Portland, OR 97201</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5140751</geo:lat>
+	<geo:long>-122.6851359</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>90</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Mission Theater</description>
+	<content:encoded><![CDATA[<address><strong>Mission Theater</strong><br />
+1624 NW Glisan St.<br />
+Portland, OR 97209</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.526201</geo:lat>
+	<geo:long>-122.688113</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>91</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>North Bank</description>
+	<content:encoded><![CDATA[<address><strong>North Bank</strong><br />
+22 Club Rd.<br />
+Eugene, OR 97401</address>]]></content:encoded>
+	<category><![CDATA[ Eugene ]]></category>
+	<geo:lat>44.059659</geo:lat>
+	<geo:long>-123.08494</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>92</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Oak Hills Brewpub</description>
+	<content:encoded><![CDATA[<address><strong>Oak Hills Brewpub</strong><br />
+14740 NW Cornell Rd. Suite 80<br />
+Portland, OR 97229</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.531334</geo:lat>
+	<geo:long>-122.830234</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>93</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Old St. Francis School</description>
+	<content:encoded><![CDATA[<address><strong>Old St. Francis School</strong><br />
+700 NW Bond St.<br />
+Bend, OR 97701</address>]]></content:encoded>
+	<category><![CDATA[ Bend ]]></category>
+	<geo:lat>44.0567149</geo:lat>
+	<geo:long>-121.314228</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>94</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Raleigh Hills Pub</description>
+	<content:encoded><![CDATA[<address><strong>Raleigh Hills Pub</strong><br />
+4495 SW Scholls Ferry Rd.<br />
+Portland, OR 97225</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.487402</geo:lat>
+	<geo:long>-122.7475</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://3Ewww.mcmenamins.com</link>
+	<guid>95</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Ringlers Annex</description>
+	<content:encoded><![CDATA[<address><strong>Ringlers Annex</strong><br />
+1223 SW Stark St.<br />
+Portland, OR 97205</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5228324</geo:lat>
+	<geo:long>-122.6837009</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>96</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Ringlers Pub</description>
+	<content:encoded><![CDATA[<address><strong>Ringlers Pub</strong><br />
+1332 W Burnside St.<br />
+Portland, OR 97209</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.522899</geo:lat>
+	<geo:long>-122.6847925</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>97</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Riverwood Pub</description>
+	<content:encoded><![CDATA[<address><strong>Riverwood Pub</strong><br />
+8136 SW Hall Blvd.<br />
+Beaverton, OR 97008</address>]]></content:encoded>
+	<category><![CDATA[ Beaverton ]]></category>
+	<geo:lat>45.4606205</geo:lat>
+	<geo:long>-122.7938851</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>98</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Rock Creek Tavern</description>
+	<content:encoded><![CDATA[<address><strong>Rock Creek Tavern</strong><br />
+10000 NW Old Cornelius Pass Rd.<br />
+Hillsboro, OR 97124</address>]]></content:encoded>
+	<category><![CDATA[ Hillsboro ]]></category>
+	<geo:lat>45.59193</geo:lat>
+	<geo:long>-122.872497</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>99</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Roseburg Station Pub &amp; Brewery</description>
+	<content:encoded><![CDATA[<address><strong>Roseburg Station Pub &amp; Brewery</strong><br />
+700 SE Sheridan St.<br />
+Roseburg, OR 97470</address>]]></content:encoded>
+	<category><![CDATA[ Roseburg ]]></category>
+	<geo:lat>43.21</geo:lat>
+	<geo:long>-123.347262</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>100</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>St. Johns Theater &amp; Pub</description>
+	<content:encoded><![CDATA[<address><strong>St. Johns Theater &amp; Pub</strong><br />
+8203 N Ivanhoe St.<br />
+Portland, OR 97203</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.588651</geo:lat>
+	<geo:long>-122.751643</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>101</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>The Rams Head</description>
+	<content:encoded><![CDATA[<address><strong>The Rams Head</strong><br />
+2282 NW Hoyt St.<br />
+Portland, OR 97210</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5268799</geo:lat>
+	<geo:long>-122.6984068</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>102</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Thompson Brewery &amp; Public House</description>
+	<content:encoded><![CDATA[<address><strong>Thompson Brewery &amp; Public House</strong><br />
+3575 Liberty Rd. S<br />
+Salem, OR 97302</address>]]></content:encoded>
+	<category><![CDATA[ Salem ]]></category>
+	<geo:lat>44.904069</geo:lat>
+	<geo:long>-123.051303</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>103</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>White Eagle Caf&#233;, Saloon &amp; Rock n&#8217; Roll Hotel</description>
+	<content:encoded><![CDATA[<address><strong>White Eagle Caf&#233;, Saloon &amp; Rock n&#8217; Roll Hotel</strong><br />
+836 N Russell St.<br />
+Portland, OR 97227</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.540794</geo:lat>
+	<geo:long>-122.675448</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>104</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Back Stage Bar</description>
+	<content:encoded><![CDATA[<address><strong>Back Stage Bar</strong><br />
+3702 SE Hawthorne Blvd.<br />
+Portland, OR 97214</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5119569</geo:lat>
+	<geo:long>-122.6256708</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>105</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Cedar Hills</description>
+	<content:encoded><![CDATA[<address><strong>Cedar Hills</strong><br />
+2927 SW Cedar Hills Blvd.<br />
+Beaverton, OR 97005</address>]]></content:encoded>
+	<category><![CDATA[ Beaverton ]]></category>
+	<geo:lat>45.4989924</geo:lat>
+	<geo:long>-122.8094395</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>106</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Chapel Pub</description>
+	<content:encoded><![CDATA[<address><strong>Chapel Pub</strong><br />
+430 N Killingsworth St.<br />
+Portland, OR 97217</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5625796</geo:lat>
+	<geo:long>-122.6708432</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>107</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Corvallis</description>
+	<content:encoded><![CDATA[<address><strong>Corvallis</strong><br />
+420 NW 3rd St.<br />
+Corvallis, OR 97330</address>]]></content:encoded>
+	<category><![CDATA[ Corvallis ]]></category>
+	<geo:lat>44.567815</geo:lat>
+	<geo:long>-123.259445</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>108</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Greenway Pub</description>
+	<content:encoded><![CDATA[<address><strong>Greenway Pub</strong><br />
+12272 SW Scholls Ferry Rd.<br />
+Tigard, OR 97223</address>]]></content:encoded>
+	<category><![CDATA[ Tigard ]]></category>
+	<geo:lat>45.4431566</geo:lat>
+	<geo:long>-122.8032686</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>109</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Kennedy School</description>
+	<content:encoded><![CDATA[<address><strong>Kennedy School</strong><br />
+5736 NE 33rd Ave.<br />
+Portland, OR 97211</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5644822</geo:lat>
+	<geo:long>-122.6296427</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>110</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Mall 205</description>
+	<content:encoded><![CDATA[<address><strong>Mall 205</strong><br />
+9710 SE Washington St., Suite A<br />
+Portland, OR 97216</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5183164</geo:lat>
+	<geo:long>-122.5631498</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>111</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Murray &amp; Allen</description>
+	<content:encoded><![CDATA[<address><strong>Murray &amp; Allen</strong><br />
+6179 SW Murray Blvd.<br />
+Beaverton, OR 97005</address>]]></content:encoded>
+	<category><![CDATA[ Beaverton ]]></category>
+	<geo:lat>45.4752037</geo:lat>
+	<geo:long>-122.8264256</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>112</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Old Church &amp; Pub</description>
+	<content:encoded><![CDATA[<address><strong>Old Church &amp; Pub</strong><br />
+30340 SW Boones Ferry Rd<br />
+Wilsonville OR 97070</address>]]></content:encoded>
+	<category><![CDATA[ Wilsonville ]]></category>
+	<geo:lat>45.3011804</geo:lat>
+	<geo:long>-122.7731687</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>113</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>On Broadway</description>
+	<content:encoded><![CDATA[<address><strong>On Broadway</strong><br />
+1504 NE Broadway St., Suite 900<br />
+Portland, OR 97232</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5348707</geo:lat>
+	<geo:long>-122.6503497</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>114</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>On Monroe</description>
+	<content:encoded><![CDATA[<address><strong>On Monroe</strong><br />
+2001 NW Monroe Ave.<br />
+Corvallis, OR 97330</address>]]></content:encoded>
+	<category><![CDATA[ Corvallis ]]></category>
+	<geo:lat>44.5682274</geo:lat>
+	<geo:long>-123.2756455</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>115</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Oregon City</description>
+	<content:encoded><![CDATA[<address><strong>Oregon City</strong><br />
+102 9th St.<br />
+Oregon City, OR 97045</address>]]></content:encoded>
+	<category><![CDATA[ Oregon City ]]></category>
+	<geo:lat>45.3592142</geo:lat>
+	<geo:long>-122.6071734</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>116</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Sand Trap</description>
+	<content:encoded><![CDATA[<address><strong>Sand Trap</strong><br />
+1157 N Marion Ave.<br />
+Gearhart, OR 97138</address>]]></content:encoded>
+	<category><![CDATA[ Gearhart ]]></category>
+	<geo:lat>46.037286</geo:lat>
+	<geo:long>-123.920234</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>117</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>McMenamins</description>
+	<content:encoded><![CDATA[<address>15976 SW Tualatin-Sherwood Rd.<br />
+Sherwood, OR 97140</address>]]></content:encoded>
+	<category><![CDATA[ Sherwood ]]></category>
+	<geo:lat>45.3674784</geo:lat>
+	<geo:long>-122.841476</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>118</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Sunnyside</description>
+	<content:encoded><![CDATA[<address><strong>Sunnyside</strong><br />
+9757 SE Sunnyside Rd., Suite K<br />
+Clackamas, OR 97015</address>]]></content:encoded>
+	<category><![CDATA[ Clackamas ]]></category>
+	<geo:lat>45.433552</geo:lat>
+	<geo:long>-122.563277</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>119</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Tavern &amp; Pool</description>
+	<content:encoded><![CDATA[<address><strong>Tavern &amp; Pool</strong><br />
+1716 NW 23rd Ave.<br />
+Portland, OR 97210</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5349008</geo:lat>
+	<geo:long>-122.6987807</geo:long>
+</item>
+<item>
+	<title>McMenamins</title>
+	<link>http://www.mcmenamins.com</link>
+	<guid>120</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>McMenamins</description>
+	<content:encoded><![CDATA[<address>2090 SW 8th Ave.<br />
+West Linn, OR 97068</address>]]></content:encoded>
+	<category><![CDATA[ West Linn ]]></category>
+	<geo:lat>45.3459429</geo:lat>
+	<geo:long>-122.6520249</geo:long>
+</item>
+<item>
+	<title>Mia &amp; Pia&#8217;s</title>
+	<link>http://www.miapia.com</link>
+	<guid>121</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Brewery</description>
+	<content:encoded><![CDATA[<address><strong>Brewery</strong><br />
+13788 Matney Rd.<br />
+Klamath Falls, OR 97603</address>]]></content:encoded>
+	<category><![CDATA[ Klamath Falls ]]></category>
+	<geo:lat>42.100811</geo:lat>
+	<geo:long>-121.6984427</geo:long>
+</item>
+<item>
+	<title>Mia and Pia&#8217;s</title>
+	<link>http://www.miapia.com</link>
+	<guid>122</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Pizzeria &amp; Brewhouse</description>
+	<content:encoded><![CDATA[<address><strong>Pizzeria &amp; Brewhouse</strong><br />
+3545 Summers Lane<br />
+Klamath Falls, OR 97603</address>]]></content:encoded>
+	<category><![CDATA[ Klamath Falls ]]></category>
+	<geo:lat>42.193757</geo:lat>
+	<geo:long>-121.737034</geo:long>
+</item>
+<item>
+	<title>Migration Brewing</title>
+	<link>http://migrationbrewing.com/</link>
+	<guid>123</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Migration Brewing</description>
+	<content:encoded><![CDATA[<address>2828 NE Glisan St<br />
+Portland, OR 97232-2434</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5262223</geo:lat>
+	<geo:long>-122.6364238</geo:long>
+</item>
+<item>
+	<title>Mt. Hood Brewing</title>
+	<link>http://www.iceaxegrill.com</link>
+	<guid>124</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Ice Axe Grill</description>
+	<content:encoded><![CDATA[<address><strong>Ice Axe Grill</strong><br />
+87304 E. Gov&rsquo;t Camp Lp<br />
+Government Camp, OR 97028</address>]]></content:encoded>
+	<category><![CDATA[ Government Camp ]]></category>
+	<geo:lat>45.2496376</geo:lat>
+	<geo:long>-121.7335849</geo:long>
+</item>
+<item>
+	<title>Mutiny Brewing Company</title>
+	<link>http://www.mutinybrewing.com/</link>
+	<guid>125</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Mutiny Brewing Company</description>
+	<content:encoded><![CDATA[<address>600 N Main St<br />
+Joseph, OR 97846</address>]]></content:encoded>
+	<category><![CDATA[ Joseph ]]></category>
+	<geo:lat>45.3573189</geo:lat>
+	<geo:long>-117.229126</geo:long>
+</item>
+<item>
+	<title>Natian Brewery</title>
+	<link>http://www.natianbrewery.com/</link>
+	<guid>126</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Natian Brewery</description>
+	<content:encoded><![CDATA[<address>1321 NE Couch<br />
+Portland OR 97232</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5237127</geo:lat>
+	<geo:long>-122.6527445</geo:long>
+</item>
+<item>
+	<title>Ninkasi Brewing Co</title>
+	<link>http://www.ninkasibrewing.com</link>
+	<guid>127</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Ninkasi Brewing Co</description>
+	<content:encoded><![CDATA[<address>272 Van Buren St.<br />
+Eugene, OR 97403</address>]]></content:encoded>
+	<category><![CDATA[ Eugene ]]></category>
+	<geo:lat>44.0569317</geo:lat>
+	<geo:long>-123.1096715</geo:long>
+</item>
+<item>
+	<title>Oakshire Brewing</title>
+	<link>http://www.oakshirebrewing.com/</link>
+	<guid>128</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Brewery</description>
+	<content:encoded><![CDATA[<address><strong>Brewery</strong><br />1055 Madera St.<br />
+Eugene, OR 97401</address>]]></content:encoded>
+	<category><![CDATA[ Eugene ]]></category>
+	<geo:lat>44.0730879</geo:lat>
+	<geo:long>-123.1410521</geo:long>
+</item>
+<item>
+	<title>Occidental Brewing Company</title>
+	<link>http://www.occidentalbrewing.com/</link>
+	<guid>129</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Occidental Brewing Company</description>
+	<content:encoded><![CDATA[<address>6635 N Baltimore Ave<br />
+Portland OR 97203</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5885635</geo:lat>
+	<geo:long>-122.7614132</geo:long>
+</item>
+<item>
+	<title>Old Market Pub &amp; Brewery</title>
+	<link>http://www.drinkbeerhere.com</link>
+	<guid>130</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Old Market Pub &amp; Brewery</description>
+	<content:encoded><![CDATA[<address>6959 SW Multnomah Blvd.<br />
+Portland, OR 97223</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.4659725</geo:lat>
+	<geo:long>-122.7480475</geo:long>
+</item>
+<item>
+	<title>Old Mill Brew W&#235;rks</title>
+	<link>http://www.oldmillbrewwerks.com/</link>
+	<guid>131</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Old Mill Brew W&#235;rks</description>
+	<content:encoded><![CDATA[<address>384 SW Upper Terrace<br />
+Bend OR 97702</address>]]></content:encoded>
+	<category><![CDATA[ Bend ]]></category>
+	<geo:lat>44.046569</geo:lat>
+	<geo:long>-121.310773</geo:long>
+</item>
+<item>
+	<title>Old Town Brewing Company</title>
+	<link>http://otbrewing.com/</link>
+	<guid>132</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Old Town Brewing Company</description>
+	<content:encoded><![CDATA[<address>5201 NE MLK Jr. Blvd.<br />
+Portland, OR 97211</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5606405</geo:lat>
+	<geo:long>-122.6616514</geo:long>
+</item>
+<item>
+	<title>Oregon Trail Brewing</title>
+	<link>http://www.oregontrailbrewery.com</link>
+	<guid>133</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Oregon Trail Brewing</description>
+	<content:encoded><![CDATA[<address>341 SW 2nd St.<br />
+Corvallis, OR 97333</address>]]></content:encoded>
+	<category><![CDATA[ Corvallis ]]></category>
+	<geo:lat>44.561315</geo:lat>
+	<geo:long>-123.2612523</geo:long>
+</item>
+<item>
+	<title>Pale Horse Brewing</title>
+	<link>http://www.facebook.com/pages/Pale-Horse-Brewing/115793318468260</link>
+	<guid>134</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Pale Horse Brewing</description>
+	<content:encoded><![CDATA[<address>2359 Hyacinth St. NE<br />
+Salem OR 97301</address>]]></content:encoded>
+	<category><![CDATA[ Salem ]]></category>
+	<geo:lat>44.9804957</geo:lat>
+	<geo:long>-123.0002095</geo:long>
+</item>
+<item>
+	<title>Pelican Pub &amp; Brewery</title>
+	<link>http://www.pelicanbrewery.com</link>
+	<guid>135</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Pelican Pub &amp; Brewery</description>
+	<content:encoded><![CDATA[<address>33180 Cape Kiwanda Dr.<br />
+Pacific City, OR 97135</address>]]></content:encoded>
+	<category><![CDATA[ Pacific City ]]></category>
+	<geo:lat>45.215174</geo:lat>
+	<geo:long>-123.970349</geo:long>
+</item>
+<item>
+	<title>pFriem Family Brewers</title>
+	<link>http://pfriembeer.com</link>
+	<guid>136</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>pFriem Family Brewers</description>
+	<content:encoded><![CDATA[<address>707 Portway Ave Ste 101<br />
+Hood River, OR 97031</address>]]></content:encoded>
+	<category><![CDATA[ Hood River ]]></category>
+	<geo:lat>45.714853</geo:lat>
+	<geo:long>-121.5189815</geo:long>
+</item>
+<item>
+	<title>Philadelphia&#8217;s Steaks &amp; Hoagies</title>
+	<link>http://www.phillypdx.com</link>
+	<guid>137</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Philadelphia&#8217;s Steaks &amp; Hoagies</description>
+	<content:encoded><![CDATA[<address>6410 SE Milwaukee Ave.<br />
+Portland, OR 97202</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.4761926</geo:lat>
+	<geo:long>-122.6488848</geo:long>
+</item>
+<item>
+	<title>Philadelphia&#8217;s Steaks &amp; Hoagies</title>
+	<link>http://www.phillypdx.com</link>
+	<guid>138</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Philadelphia&#8217;s Steaks &amp; Hoagies</description>
+	<content:encoded><![CDATA[<address>18625 Willamette Dr.<br />
+West Linn, OR 97068</address>]]></content:encoded>
+	<category><![CDATA[ West Linn ]]></category>
+	<geo:lat>45.390971</geo:lat>
+	<geo:long>-122.645972</geo:long>
+</item>
+<item>
+	<title>PINTS Brewing</title>
+	<link>http://www.pintsbrewing.com/</link>
+	<guid>139</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>PINTS Brewing</description>
+	<content:encoded><![CDATA[<address>412 NW 5th Ave<br />
+Portland, Oregon 97209</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5261774</geo:lat>
+	<geo:long>-122.6754323</geo:long>
+</item>
+<item>
+	<title>Portland U-Brew &amp; Pub</title>
+	<link>http://www.portlandubrewandpub.com/</link>
+	<guid>140</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Portland U-Brew &amp; Pub</description>
+	<content:encoded><![CDATA[<address>6237 SE Milwaukie Ave.<br />
+Portland, OR 97202</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.4773039</geo:lat>
+	<geo:long>-122.6492994</geo:long>
+</item>
+<item>
+	<title>Raccoon Lodge and Brewpub</title>
+	<link>http://www.raclodge.com</link>
+	<guid>141</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Raccoon Lodge and Brewpub</description>
+	<content:encoded><![CDATA[<address>7424 SW Beaverton-Hillsdale<br />
+Portland, OR 97225</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.485627</geo:lat>
+	<geo:long>-122.753996</geo:long>
+</item>
+<item>
+	<title>Red Dog Depot</title>
+	<link>http://www.reddogdepot.com</link>
+	<guid>142</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Red Dog Depot</description>
+	<content:encoded><![CDATA[<address>3716 SW 21st Place<br />
+Redmond, OR 97756</address>]]></content:encoded>
+	<category><![CDATA[ Redmond ]]></category>
+	<geo:lat>44.241361</geo:lat>
+	<geo:long>-121.190827</geo:long>
+</item>
+<item>
+	<title>Pale Horse Brewing</title>
+	<link>http://www.facebook.com/pages/Pale-Horse-Brewing/</link>
+	<guid>143</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Pale Horse Brewing</description>
+	<content:encoded><![CDATA[<address>2359 Hyacinth St. NE<br />
+Salem OR 97301</address>]]></content:encoded>
+	<category><![CDATA[ Salem ]]></category>
+	<geo:lat>44.9804957</geo:lat>
+	<geo:long>-123.0002095</geo:long>
+</item>
+<item>
+	<title>Rock Bottom Brewery</title>
+	<link>http://www.rockbottom.com</link>
+	<guid>144</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Rock Bottom Brewery</description>
+	<content:encoded><![CDATA[<address>206 SW Morrison<br />
+Portland, OR 97204</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.518025</geo:lat>
+	<geo:long>-122.6749061</geo:long>
+</item>
+<item>
+	<title>Rogue Ales</title>
+	<link>http://www.rogue.com</link>
+	<guid>145</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Public House</description>
+	<content:encoded><![CDATA[<address><strong>Public House</strong><br />
+100 39th St., Pier 39<br />
+Astoria, OR 97103</address>]]></content:encoded>
+	<category><![CDATA[ Astoria ]]></category>
+	<geo:lat>46.196854</geo:lat>
+	<geo:long>-123.797335</geo:long>
+</item>
+<item>
+	<title>Rogue Ales</title>
+	<link>http://www.rogue.com</link>
+	<guid>146</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Public House</description>
+	<content:encoded><![CDATA[<address><strong>Public House</strong><br />
+844 Olive St.<br />
+Eugene, OR 97401</address>]]></content:encoded>
+	<category><![CDATA[ Eugene ]]></category>
+	<geo:lat>44.050545</geo:lat>
+	<geo:long>-123.094587</geo:long>
+</item>
+<item>
+	<title>Rogue Ales</title>
+	<link>http://www.rogue.com</link>
+	<guid>147</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Distillery and Public House</description>
+	<content:encoded><![CDATA[<address><strong>Distillery and Public House</strong><br />
+1339 NW Flanders<br />
+Portland, OR 97215</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5257787</geo:lat>
+	<geo:long>-122.6846592</geo:long>
+</item>
+<item>
+	<title>Rogue Ales</title>
+	<link>http://www.rogue.com</link>
+	<guid>148</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Public House</description>
+	<content:encoded><![CDATA[<address><strong>Public House</strong><br />
+748 SW Bay Blvd.<br />
+Newport, OR 97365</address>]]></content:encoded>
+	<category><![CDATA[ Newport ]]></category>
+	<geo:lat>44.6278999</geo:lat>
+	<geo:long>-124.0555528</geo:long>
+</item>
+<item>
+	<title>Rogue Ales</title>
+	<link>http://www.rogue.com</link>
+	<guid>149</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Brewer&#8217;s on the Bay</description>
+	<content:encoded><![CDATA[<address><strong>Brewer&#8217;s on the Bay</strong><br />
+2320 OSU Drive<br />
+Newport, OR 97365</address>]]></content:encoded>
+	<category><![CDATA[ Newport ]]></category>
+	<geo:lat>44.620173</geo:lat>
+	<geo:long>-124.0520565</geo:long>
+</item>
+<item>
+	<title>Rogue Ales</title>
+	<link>http://www.rogue.com/locations/locations.php</link>
+	<guid>150</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>House of Spirits</description>
+	<content:encoded><![CDATA[<address><strong>House of Spirits</strong><br />
+2122 Marine Science Drive<br />
+Newport, OR 97365</address>]]></content:encoded>
+	<category><![CDATA[ Newport ]]></category>
+	<geo:lat>44.6193362</geo:lat>
+	<geo:long>-124.0500246</geo:long>
+</item>
+<item>
+	<title>Rogue Ales</title>
+	<link>http://www.rogue.com</link>
+	<guid>151</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Portland Airport</description>
+	<content:encoded><![CDATA[<address><strong>Portland Airport</strong><br />
+7000 NE Airport Way<br />
+Portland, OR 97218</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5874053</geo:lat>
+	<geo:long>-122.5894476</geo:long>
+</item>
+<item>
+	<title>Rogue Ales</title>
+	<link>http://www.rogue.com/locations/locations.php</link>
+	<guid>152</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Farms Micro Hopyard, Hop&#8217;n Bed, Chatoe Rogue Tasting Room + Nano Brewers</description>
+	<content:encoded><![CDATA[<address><strong>Farms Micro Hopyard</strong><br />
+3590 Wigrich Rd.<br />
+Independence, OR 97351</address>]]></content:encoded>
+	<category><![CDATA[ Independence ]]></category>
+	<geo:lat>44.803883</geo:lat>
+	<geo:long>-123.1003648</geo:long>
+</item>
+<item>
+	<title>Rusty Truck Brewing Co</title>
+	<link>http://www.rustytruckbrewing.com</link>
+	<guid>153</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Rusty Truck Brewing Co</description>
+	<content:encoded><![CDATA[<address>4649 SW Hwy 101<br />
+Lincoln City, OR  97367</address>]]></content:encoded>
+	<category><![CDATA[ Lincoln City ]]></category>
+	<geo:lat>44.9299837</geo:lat>
+	<geo:long>-124.01791</geo:long>
+</item>
+<item>
+	<title>Santiam Brewing</title>
+	<link>http://www.santiambrewing.com/</link>
+	<guid>154</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Santiam Brewing</description>
+	<content:encoded><![CDATA[<address>2544 SE 19th St SE<br />
+Salem OR 97302</address>]]></content:encoded>
+	<category><![CDATA[ Salem ]]></category>
+	<geo:lat>44.9158265</geo:lat>
+	<geo:long>-123.0210254</geo:long>
+</item>
+<item>
+	<title>Sasquatch Brewery</title>
+	<link>http://sasquatchbrewery.blogspot.com/</link>
+	<guid>155</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Sasquatch Brewery</description>
+	<content:encoded><![CDATA[<address>6440 SW Capitol Hwy<br />
+Portland OR 97239</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.477677</geo:lat>
+	<geo:long>-122.6992699</geo:long>
+</item>
+<item>
+	<title>Silver Moon Brewing</title>
+	<link>http://www.silvermoonbrewing.com</link>
+	<guid>156</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Silver Moon Brewing</description>
+	<content:encoded><![CDATA[<address>24 NW Greenwood Ave<br />
+Bend, OR 97701</address>]]></content:encoded>
+	<category><![CDATA[ Bend ]]></category>
+	<geo:lat>44.0601052</geo:lat>
+	<geo:long>-121.3078234</geo:long>
+</item>
+<item>
+	<title>Southern Oregon Brewing Co.</title>
+	<link>http://www.sobrewing.com</link>
+	<guid>157</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Southern Oregon Brewing Co.</description>
+	<content:encoded><![CDATA[<address>1922 United Way<br />
+Medford, OR 97504</address>]]></content:encoded>
+	<category><![CDATA[ Medford ]]></category>
+	<geo:lat>42.356287</geo:lat>
+	<geo:long>-122.859156</geo:long>
+</item>
+<item>
+	<title>Standing Stone Brewing Co.</title>
+	<link>http://www.standingstonebrewing.com</link>
+	<guid>158</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Standing Stone Brewing Co.</description>
+	<content:encoded><![CDATA[<address>101 Oak St.<br />
+Ashland, OR 97520</address>]]></content:encoded>
+	<category><![CDATA[ Ashland ]]></category>
+	<geo:lat>42.197576</geo:lat>
+	<geo:long>-122.714596</geo:long>
+</item>
+<item>
+	<title>Steelhead Brewing</title>
+	<link>http://www.steelheadbrewery.com</link>
+	<guid>159</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Steelhead Brewing</description>
+	<content:encoded><![CDATA[<address>199 E 5th Ave.<br />
+Eugene, OR 97401</address>]]></content:encoded>
+	<category><![CDATA[ Eugene ]]></category>
+	<geo:lat>44.054674</geo:lat>
+	<geo:long>-123.090149</geo:long>
+</item>
+<item>
+	<title>The Commons Brewery</title>
+	<link>http://www.beetjebrewery.com/</link>
+	<guid>160</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>The Commons Brewery</description>
+	<content:encoded><![CDATA[<address>1810 SE 10th Ave, Unit E<br />
+Portland, OR 97214</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5099804</geo:lat>
+	<geo:long>-122.6556096</geo:long>
+</item>
+<item>
+	<title>The Creamery Brewpub and Grill</title>
+	<link>http://www.kbbrewing.com</link>
+	<guid>161</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>The Creamery Brewpub and Grill</description>
+	<content:encoded><![CDATA[<address>1320 Main St.<br />
+Klamath Falls, OR 97601</address>]]></content:encoded>
+	<category><![CDATA[ Klamath Falls ]]></category>
+	<geo:lat>42.227983</geo:lat>
+	<geo:long>-121.776519</geo:long>
+</item>
+<item>
+	<title>The Prodigal Son Brewery and Pub</title>
+	<link>http://prodigalsonbrewery.com/</link>
+	<guid>162</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>The Prodigal Son Brewery and Pub</description>
+	<content:encoded><![CDATA[<address>230 SE Court Ave<br />
+Pendleton, OR 97801</address>]]></content:encoded>
+	<category><![CDATA[ Pendleton ]]></category>
+	<geo:lat>45.6730049</geo:lat>
+	<geo:long>-118.770888</geo:long>
+</item>
+<item>
+	<title>The Ram Restaurant &amp; Brewery</title>
+	<link>http://www.theram.com</link>
+	<guid>163</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>The Ram Restaurant &amp; Brewery</description>
+	<content:encoded><![CDATA[<address>515 12th St. SE<br />
+Salem, OR 97301</address>]]></content:encoded>
+	<category><![CDATA[ Salem ]]></category>
+	<geo:lat>44.932963</geo:lat>
+	<geo:long>-123.029348</geo:long>
+</item>
+<item>
+	<title>The Ram Restaurant &amp; Brewery</title>
+	<link>http://www.theram.com</link>
+	<guid>164</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>The Ram Restaurant &amp; Brewery</description>
+	<content:encoded><![CDATA[<address>11860 SE 82nd Ave., #3050<br />
+Happy Valley, OR 97086</address>]]></content:encoded>
+	<category><![CDATA[ Happy Valley ]]></category>
+	<geo:lat>45.4375639</geo:lat>
+	<geo:long>-122.5789831</geo:long>
+</item>
+<item>
+	<title>Three Creeks Brewing Co.</title>
+	<link>http://www.threecreeksbrewing.com</link>
+	<guid>165</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Three Creeks Brewing Co.</description>
+	<content:encoded><![CDATA[<address>721 Desperado Ct.<br />
+Sisters, OR 97759</address>]]></content:encoded>
+	<category><![CDATA[ Sisters ]]></category>
+	<geo:lat>44.285155</geo:lat>
+	<geo:long>-121.534925</geo:long>
+</item>
+<item>
+	<title>Two Kilts Brewing</title>
+	<link>http://twokiltsbrewing.com/</link>
+	<guid>166</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Two Kilts Brewing</description>
+	<content:encoded><![CDATA[<address>14841 SW Tualatin Sherwood Rd. Ste 501<br />
+Sherwood, OR 97140</address>]]></content:encoded>
+	<category><![CDATA[ Sherwood ]]></category>
+	<geo:lat>45.368616</geo:lat>
+	<geo:long>-122.830474</geo:long>
+</item>
+<item>
+	<title>Upright Brewing</title>
+	<link>http://www.uprightbrewing.com/</link>
+	<guid>167</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Upright Brewing</description>
+	<content:encoded><![CDATA[<address>240 N Broadway<br />
+Portland, OR 97227</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5348267</geo:lat>
+	<geo:long>-122.6685855</geo:long>
+</item>
+<item>
+	<title>Vertigo Brewing</title>
+	<link>http://vertigobrew.com/about.html</link>
+	<guid>168</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Vertigo Brewing</description>
+	<content:encoded><![CDATA[<address>21420 NW Nicholas Ct<br />
+Suite D-7<br />
+Hillsboro, OR 97124</address>]]></content:encoded>
+	<category><![CDATA[ Hillsboro ]]></category>
+	<geo:lat>45.5316652</geo:lat>
+	<geo:long>-122.895556</geo:long>
+</item>
+<item>
+	<title>Wakonda Brewing Co.</title>
+	<link>http://www.facebook.com/group.php?gid=353722712010</link>
+	<guid>169</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Wakonda Brewing Co.</description>
+	<content:encoded><![CDATA[<address>1725 Kingwood St. #4<br />
+Florence, OR 97439</address>]]></content:encoded>
+	<category><![CDATA[ Florence ]]></category>
+	<geo:lat>43.98122</geo:lat>
+	<geo:long>-124.109353</geo:long>
+</item>
+<item>
+	<title>Walkabout Brewery</title>
+	<link>http://www.facebook.com/pages/Walkabout-Brewery/</link>
+	<guid>170</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Walkabout Brewery</description>
+	<content:encoded><![CDATA[<address>5204 Dobrot Way<br />
+Central Point, OR 97502</address>]]></content:encoded>
+	<category><![CDATA[ Central Point ]]></category>
+	<geo:lat>42.392252</geo:lat>
+	<geo:long>-122.925016</geo:long>
+</item>
+<item>
+	<title>Warren House Pub</title>
+	<link>http://www.cannonbeach.org/businesses/Where-to-Eat/Pubs-and-Bars/Warren-House-Pub</link>
+	<guid>171</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Warren House Pub</description>
+	<content:encoded><![CDATA[<address>3301 S Hemlock<br />
+Cannon Beach, OR 97110</address>]]></content:encoded>
+	<category><![CDATA[ Cannon Beach ]]></category>
+	<geo:lat>45.873343</geo:lat>
+	<geo:long>-123.959377</geo:long>
+</item>
+<item>
+	<title>Widmer Brothers Brewing Company</title>
+	<link>http://www.widmer.com</link>
+	<guid>172</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Widmer Brothers Brewing Company</description>
+	<content:encoded><![CDATA[<address>929 N Russell<br />
+Portland, OR 97227</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.540795</geo:lat>
+	<geo:long>-122.675594</geo:long>
+</item>
+<item>
+	<title>Wild River Brewing &amp; Pizza</title>
+	<link>http://www.wildriverbrewing.com</link>
+	<guid>173</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Wild River Brewing &amp; Pizza</description>
+	<content:encoded><![CDATA[<address>595 NE E St.<br />
+Grants Pass, OR 97526</address>]]></content:encoded>
+	<category><![CDATA[ Grants Pass ]]></category>
+	<geo:lat>42.438968</geo:lat>
+	<geo:long>-123.317551</geo:long>
+</item>
+<item>
+	<title>Wild River Brewing &amp; Pizza Co.</title>
+	<link>http://www.wildriverbrewing.com</link>
+	<guid>174</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Wild River Brewing &amp; Pizza Co.</description>
+	<content:encoded><![CDATA[<address>249 N Redwood Hwy<br />
+Cave Junction, OR 97523</address>]]></content:encoded>
+	<category><![CDATA[ Cave Junction ]]></category>
+	<geo:lat>42.170704</geo:lat>
+	<geo:long>-123.645221</geo:long>
+</item>
+<item>
+	<title>Wild River Brewing &amp; Pizza Co.</title>
+	<link>http://www.wildriverbrewing.com</link>
+	<guid>175</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Wild River Brewing &amp; Pizza Co.</description>
+	<content:encoded><![CDATA[<address>2684 N Pacific Hwy.<br />
+Medford , OR 97501</address>]]></content:encoded>
+	<category><![CDATA[ Medford ]]></category>
+	<geo:lat>42.3493064</geo:lat>
+	<geo:long>-122.8908058</geo:long>
+</item>
+<item>
+	<title>Wild River Brewing Co.</title>
+	<link>http://www.wildriverbrewing.com</link>
+	<guid>176</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Wild River Brewing Co.</description>
+	<content:encoded><![CDATA[<address>144 Kenrose Ln.<br />
+Cave Junction, OR 97523</address>]]></content:encoded>
+	<category><![CDATA[ Cave Junction ]]></category>
+	<geo:lat>42.129204</geo:lat>
+	<geo:long>-123.659777</geo:long>
+</item>
+<item>
+	<title>Wild River Pizza</title>
+	<link>http://www.wildriverbrewing.com</link>
+	<guid>177</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Wild River Pizza</description>
+	<content:encoded><![CDATA[<address>16279 Highway 101 S<br />
+Brookings Harbor, OR 97415</address>]]></content:encoded>
+	<category><![CDATA[ Brookings Harbor ]]></category>
+	<geo:lat>42.0670125</geo:lat>
+	<geo:long>-124.3085517</geo:long>
+</item>
+<item>
+	<title>Wild River Pub &amp; Publik House</title>
+	<link>http://www.wildriverbrewing.com</link>
+	<guid>178</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Wild River Pub &amp; Publik House</description>
+	<content:encoded><![CDATA[<address>533 NE F St.<br />
+Grants Pass, OR 97526</address>]]></content:encoded>
+	<category><![CDATA[ Grants Pass ]]></category>
+	<geo:lat>42.43812</geo:lat>
+	<geo:long>-123.318987</geo:long>
+</item>
+<item>
+	<title>Worthy Brewing Co</title>
+	<link>http://www.worthybrewing.com/</link>
+	<guid>179</guid>
+	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
+	<description>Worthy Brewing Co</description>
+	<content:encoded><![CDATA[<address>495 NE Bellevue Dr.<br />
+Bend, Oregon 97701</address>]]></content:encoded>
+	<category><![CDATA[ Bend ]]></category>
+	<geo:lat>44.0548956</geo:lat>
+	<geo:long>-121.2613389</geo:long>
+</item>
+
+	</channel>
+</rss>
