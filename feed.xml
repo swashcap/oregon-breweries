@@ -9,9 +9,20 @@
 		<atom:link href="http://www.swashcap.com/oregon-breweries/feed.xml" rel="self" type="application/rss+xml"/>
 		<description>A list major and minor beer producers in Oregon</description>
 		<link>http://www.swashcap.com/oregon-breweries/</link>
-		<lastBuildDate>Mon, 01 Apr 2013 02:12:14 -0800</lastBuildDate>
-		<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
-
+		<lastBuildDate>Sun, 28 Jul 2013 22:33:00 -0700</lastBuildDate>
+		<pubDate>Sun, 28 Jul 2013 22:33:00 -0700</pubDate>
+<item>
+	<title>Falling Sky Brewing</title>
+	<link>http://fallingskybrewing.com/</link>
+	<guid>189</guid>
+	<pubDate>Sun, 28 Jul 2013 22:33:00 -0700</pubDate>
+	<description>Delicatessen &amp; Pour House</description>
+	<content:encoded><![CDATA[<address>790 Blair Blvd<br />
+Eugene Oregon 97402</address>]]></content:encoded>
+	<category><![CDATA[ Eugene ]]></category>
+	<geo:lat>44.05119040</geo:lat>
+	<geo:long>-123.10497240</geo:long>
+</item>
 <item>
 	<title>Hop Valley Brewing</title>
 	<link>http://www.hopvalleybrewing.com/</link>
