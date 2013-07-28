@@ -9,9 +9,21 @@
 		<atom:link href="http://www.swashcap.com/oregon-breweries/feed.xml" rel="self" type="application/rss+xml"/>
 		<description>A list major and minor beer producers in Oregon</description>
 		<link>http://www.swashcap.com/oregon-breweries/</link>
-		<lastBuildDate>Sun, 28 Jul 2013 23:01:00 -0700</lastBuildDate>
+		<lastBuildDate>Sun, 28 Jul 2013 23:08:00 -0700</lastBuildDate>
 		<pubDate>Sun, 28 Jul 2013 22:33:00 -0700</pubDate>
 
+<item>
+	<title>The Ram Restaurant &amp; Brewery</title>
+	<link>http://www.theram.com</link>
+	<guid>191</guid>
+	<pubDate>Sun, 28 Jul 2013 23:08:00 -0700</pubDate>
+	<description>The Ram Restaurant &amp; Brewery</description>
+	<content:encoded><![CDATA[<address>29800 SW Boones Ferry Rd.<br />
+Wilsonville OR 97070</address>]]></content:encoded>
+	<category><![CDATA[ Wilsonville ]]></category>
+	<geo:lat>45.3037480</geo:lat>
+	<geo:long>-122.7712810</geo:long>
+</item>
 <item>
 	<title>Terminal Gravity Brewing</title>
 	<link>http://www.terminalgravitybrewing.com/</link>
@@ -20,7 +32,7 @@
 	<description>Terminal Gravity Brewing</description>
 	<content:encoded><![CDATA[<address>803 SE School Street<br />
 Enterprise OR 97828</address>]]></content:encoded>
-	<category><![CDATA[ Eugene ]]></category>
+	<category><![CDATA[ Enterprise ]]></category>
 	<geo:lat>45.4185150</geo:lat>
 	<geo:long>-117.2712650</geo:long>
 </item>
