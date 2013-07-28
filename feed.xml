@@ -9,16 +9,30 @@
 		<atom:link href="http://www.swashcap.com/oregon-breweries/feed.xml" rel="self" type="application/rss+xml"/>
 		<description>A list major and minor beer producers in Oregon</description>
 		<link>http://www.swashcap.com/oregon-breweries/</link>
-		<lastBuildDate>Sun, 28 Jul 2013 22:33:00 -0700</lastBuildDate>
+		<lastBuildDate>Sun, 28 Jul 2013 23:01:00 -0700</lastBuildDate>
 		<pubDate>Sun, 28 Jul 2013 22:33:00 -0700</pubDate>
+
+<item>
+	<title>Terminal Gravity Brewing</title>
+	<link>http://www.terminalgravitybrewing.com/</link>
+	<guid>190</guid>
+	<pubDate>Sun, 28 Jul 2013 23:01:00 -0700</pubDate>
+	<description>Terminal Gravity Brewing</description>
+	<content:encoded><![CDATA[<address>803 SE School Street<br />
+Enterprise OR 97828</address>]]></content:encoded>
+	<category><![CDATA[ Eugene ]]></category>
+	<geo:lat>45.4185150</geo:lat>
+	<geo:long>-117.2712650</geo:long>
+</item>
 <item>
 	<title>Falling Sky Brewing</title>
 	<link>http://fallingskybrewing.com/</link>
 	<guid>189</guid>
 	<pubDate>Sun, 28 Jul 2013 22:33:00 -0700</pubDate>
 	<description>Delicatessen &amp; Pour House</description>
-	<content:encoded><![CDATA[<address>790 Blair Blvd<br />
-Eugene Oregon 97402</address>]]></content:encoded>
+	<content:encoded><![CDATA[<address><strong>Delicatessen &amp; Pour House</strong><br />
+790 Blair Blvd<br />
+Eugene OR 97402</address>]]></content:encoded>
 	<category><![CDATA[ Eugene ]]></category>
 	<geo:lat>44.05119040</geo:lat>
 	<geo:long>-123.10497240</geo:long>
@@ -31,7 +45,7 @@ Eugene Oregon 97402</address>]]></content:encoded>
 	<description>Tasting Room</description>
 	<content:encoded><![CDATA[<address><strong>Tasting Room</strong><br />
 990 W. 1st Ave.<br />
-Eugene, OR 97402</address>]]></content:encoded>
+Eugene OR 97402</address>]]></content:encoded>
 	<category><![CDATA[ Eugene ]]></category>
 	<geo:lat>44.058190</geo:lat>
 	<geo:long>-123.1075310</geo:long>
