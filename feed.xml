@@ -9,9 +9,57 @@
 		<atom:link href="http://www.swashcap.com/oregon-breweries/feed.xml" rel="self" type="application/rss+xml"/>
 		<description>A list major and minor beer producers in Oregon</description>
 		<link>http://www.swashcap.com/oregon-breweries/</link>
-		<lastBuildDate>Sun, 28 Jul 2013 23:08:00 -0700</lastBuildDate>
-		<pubDate>Sun, 28 Jul 2013 22:33:00 -0700</pubDate>
+		<lastBuildDate>Mon, 29 Jul 2013 03:06:00 -0700</lastBuildDate>
+		<pubDate>Mon, 29 Jul 2013 03:06:00 -0700</pubDate>
 
+<item>
+	<title>Fearless Brewing Company</title>
+	<link>http://www.fearless1.com/</link>
+	<guid>195</guid>
+	<pubDate>Mon, 29 Jul 2013 03:06:00 -0700</pubDate>
+	<description>Fearless Brewing Company</description>
+	<content:encoded><![CDATA[<address>326 S. Broadway St.<br />
+Estacada OR 97023</address>]]></content:encoded>
+	<category><![CDATA[ Estacada ]]></category>
+	<geo:lat>45.28741890</geo:lat>
+	<geo:long>-122.33503970</geo:long>
+</item>
+<item>
+	<title>Seven Brides Brewing</title>
+	<link>http://www.sevenbridesbrewing.com/</link>
+	<guid>194</guid>
+	<pubDate>Mon, 29 Jul 2013 03:06:00 -0700</pubDate>
+	<description>Seven Brides Brewing</description>
+	<content:encoded><![CDATA[<address>990 N. 1st St.<br />
+Silverton OR 97381</address>]]></content:encoded>
+	<category><![CDATA[ Silverton ]]></category>
+	<geo:lat>45.01351550</geo:lat>
+	<geo:long>-122.78427140</geo:long>
+</item>
+<item>
+	<title>Gigantic Brewing Company</title>
+	<link>http://www.giganticbrewing.com/</link>
+	<guid>193</guid>
+	<pubDate>Mon, 29 Jul 2013 03:06:00 -0700</pubDate>
+	<description>Gigantic Brewing Company</description>
+	<content:encoded><![CDATA[<address>5224 SE 26th Ave.<br />
+Portland OR 97202</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.4850580</geo:lat>
+	<geo:long>-122.63949660</geo:long>
+</item>
+<item>
+	<title>Base Camp Brewing Company</title>
+	<link>http://basecampbrewingco.com/</link>
+	<guid>192</guid>
+	<pubDate>Mon, 29 Jul 2013 03:06:00 -0700</pubDate>
+	<title>Base Camp Brewing Company</title>
+	<content:encoded><![CDATA[<address>930 SE Oak St.<br />
+Portland OR 97214</address>]]></content:encoded>
+	<category><![CDATA[ Portland ]]></category>
+	<geo:lat>45.5198930</geo:lat>
+	<geo:long>-122.6563240</geo:long>
+</item>
 <item>
 	<title>The Ram Restaurant &amp; Brewery</title>
 	<link>http://www.theram.com</link>
@@ -707,7 +755,7 @@ Corvallis, OR 97333</address>]]></content:encoded>
 	<geo:long>-123.2593202</geo:long>
 </item>
 <item>
-	<title>Fort George Brewery + Public House</title>
+	<title>Fort George Brewery &amp; Public House</title>
 	<link>http://www.fortgeorgebrewery.com</link>
 	<guid>44</guid>
 	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
