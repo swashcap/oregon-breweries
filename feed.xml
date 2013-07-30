@@ -6,12 +6,36 @@
 	version="2.0">
 	<channel>
 		<title>Oregon Breweries</title>
-		<atom:link href="http://www.swashcap.com/oregon-breweries/feed.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://raw.github.com/swashcap/oregon-breweries/master/feed.xml" rel="self" type="application/rss+xml"/>
 		<description>A list major and minor beer producers in Oregon</description>
 		<link>http://www.swashcap.com/oregon-breweries/</link>
-		<lastBuildDate>Mon, 29 Jul 2013 03:06:00 -0700</lastBuildDate>
-		<pubDate>Mon, 29 Jul 2013 03:06:00 -0700</pubDate>
+		<lastBuildDate>Tue, 30 Jul 2013 21:00:00 -0700</lastBuildDate>
+		<pubDate>Tue, 30 Jul 2013 21:00:00 -0700</pubDate>
 
+<item>
+	<title>Mt. Emily Alehouse</title>
+	<link>http://mtemilyalehouse.com/</link>
+	<guid>197</guid>
+	<pubDate>Tue, 30 Jul 2013 21:00:00 -0700</pubDate>
+	<description>Mt. Emily Alehouse</description>
+	<content:encoded><![CDATA[<address>1202 Adams Ave.<br />
+La Grande OR 97850</address>]]></content:encoded>
+	<category><![CDATA[ La Grande ]]></category>
+	<geo:lat>45.32825290</geo:lat>
+	<geo:long>-118.094440</geo:long>
+</item>
+<item>
+	<title>Solera Brewing</title>
+	<link>http://www.solerabrewery.com/</link>
+	<guid>196</guid>
+	<pubDate>Tue, 30 Jul 2013 21:00:00 -0700</pubDate>
+	<description>Solera Brewing</description>
+	<content:encoded><![CDATA[<address>4945 Baseline Dr.<br />
+Parkdale OR 97041</address>]]></content:encoded>
+	<category><![CDATA[ Parkdale ]]></category>
+	<geo:lat>45.5195270</geo:lat>
+	<geo:long>-121.59522660</geo:long>
+</item>
 <item>
 	<title>Fearless Brewing Company</title>
 	<link>http://www.fearless1.com/</link>
