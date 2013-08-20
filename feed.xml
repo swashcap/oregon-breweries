@@ -520,22 +520,22 @@ Albany, OR 97321</address>]]></content:encoded>
 </item>
 <item>
 	<title>Caldera Brewing Co</title>
-	<link>http://www.calderabrewing.com</link>
+	<link>http://www.calderabrewing.com/Page.asp?NavID=1</link>
 	<guid>23</guid>
 	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
-	<description>Caldera Brewing Co</description>
-	<content:encoded><![CDATA[<address>540 Clover Lane<br />
+	<description>Brewery</description>
+	<content:encoded><![CDATA[<address>590 Clover Lane<br />
 Ashland, OR 97520-3709</address>]]></content:encoded>
 	<category><![CDATA[ Ashland ]]></category>
 	<geo:lat>42.184409</geo:lat>
 	<geo:long>-122.663147</geo:long>
 </item>
 <item>
-	<title>Caldera Tap House</title>
+	<title>Caldera Brewing Co</title>
 	<link>http://www.calderabrewing.com/Page.asp?NavID=21</link>
 	<guid>24</guid>
 	<pubDate>Sun, 31 Mar 2013 21:17:00 -0800</pubDate>
-	<description>Caldera Tap House</description>
+	<description>Tap House</description>
 	<content:encoded><![CDATA[<address>31 Water Street #2<br />
 Ashland, Oregon 97520</address>]]></content:encoded>
 	<category><![CDATA[ Ashland ]]></category>
