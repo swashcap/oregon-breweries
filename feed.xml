@@ -9,9 +9,158 @@
 		<atom:link href="https://raw.github.com/swashcap/oregon-breweries/master/feed.xml" rel="self" type="application/rss+xml"/>
 		<description>A list major and minor beer producers in Oregon</description>
 		<link>http://www.swashcap.com/oregon-breweries/</link>
-		<lastBuildDate>Tue, 30 Jul 2013 21:00:00 -0700</lastBuildDate>
-		<pubDate>Tue, 30 Jul 2013 21:00:00 -0700</pubDate>
+		<lastBuildDate>Sat, 7 Dec 2013 19:15:00 -0700</lastBuildDate>
+		<pubDate>Sat, 7 Dec 2013 19:15:00 -0700</pubDate>
 
+<item>
+  <title>Reverend Nat’s Hard Cider</title>
+  <link>http://reverendnatshardcider.com/</link>
+  <guid>208</guid>
+  <pubDate>Sat, 7 Dec 2013 19:15:00 -0700</pubDate>
+  <description>Cidery and Public Taproom</description>
+  <content:encoded><![CDATA[<address>1813 NE 2nd Ave<br />
+Portland OR 97212</address>]]></content:encoded>
+  <category><![CDATA[ Portland ]]></category>
+  <category><![CDATA[ Cider ]]></category>
+  <geo:lat>45.5361092</geo:lat>
+  <geo:long>-122.6636839</geo:long>
+</item>
+<item>
+  <title>Red Tank Cider Company</title>
+  <link>http://redtankcider.com/</link>
+  <guid>207</guid>
+  <pubDate>Sat, 7 Dec 2013 19:15:00 -0700</pubDate>
+  <description>Tasting Room</description>
+  <content:encoded><![CDATA[<address>840 SE Woodland St #185<br />
+Bend OR 97702</address>]]></content:encoded>
+  <category><![CDATA[ Bend ]]></category>
+  <category><![CDATA[ Cider ]]></category>
+  <geo:lat>44.0469243</geo:lat>
+  <geo:long>-121.295039</geo:long>
+</item>
+<item>
+  <title>Blue Mountain Cider Company</title>
+  <link>http://www.drinkcider.com</link>
+  <guid>206</guid>
+  <pubDate>Sat, 7 Dec 2013 19:15:00 -0700</pubDate>
+  <description>Tasting Room</description>
+  <content:encoded><![CDATA[<address>235 E Broadway Ave
+Milton-Freewater OR 97862</address>]]></content:encoded>
+  <category><![CDATA[ Milton Freewater ]]></category>
+  <category><![CDATA[ Cider ]]></category>
+  <geo:lat>45.581262</geo:lat>
+  <geo:long>-123.133492</geo:long>
+</item>
+<item>
+  <title>Bull Run Cider</title>
+  <link>http://www.bullruncider.com/</link>
+  <guid>205</guid>
+  <pubDate>Sat, 7 Dec 2013 19:15:00 -0700</pubDate>
+  <description>Tasting Room</description>
+  <content:encoded><![CDATA[<address>7940 NW Kansas City Rd<br />
+Forest Grove OR 97116</address>]]></content:encoded>
+  <category><![CDATA[ Forest Grove ]]></category>
+  <category><![CDATA[ Cider ]]></category>
+  <geo:lat>0</geo:lat>
+  <geo:long>0</geo:long>
+</item>
+<item>
+  <title>Bushwhacker Cider</title>
+  <link>http://bushwhackercider.com/</link>
+  <guid>204</guid>
+  <pubDate>Sat, 7 Dec 2013 19:15:00 -0700</pubDate>
+  <description>Cider Pub</description>
+  <content:encoded><![CDATA[<address>1212-D SE Powell<br />
+Portland OR 97202</address>]]></content:encoded>
+  <category><![CDATA[ Portland ]]></category>
+  <category><![CDATA[ Cider ]]></category>
+  <geo:lat>45.5003881</geo:lat>
+  <geo:long>-122.6527378</geo:long>
+</item>
+<item>
+  <title>Viking Braggot Company</title>
+  <link>http://www.drinkviking.com</link>
+  <guid>203</guid>
+  <pubDate>Sat, 7 Dec 2013 19:15:00 -0700</pubDate>
+  <description>Brewery</description>
+  <content:encoded><![CDATA[<address>520 Commercial St, Unit F<br />
+Eugene OR 97402</address>]]></content:encoded>
+  <category><![CDATA[ Eugene ]]></category>
+  <geo:lat>44.05425899</geo:lat>
+  <geo:long>-123.167724</geo:long>
+</item>
+<item>
+  <title>Stickment Brewing Company</title>
+  <link>http://www.stickmenbeer.com</link>
+  <guid>202</guid>
+  <pubDate>Sat, 7 Dec 2013 19:15:00 -0700</pubDate>
+  <description>Brewery &amp; Skewery</description>
+  <content:encoded><![CDATA[<address>40 N State St<br />
+Lake Oswego OR 97034</address>]]></content:encoded>
+  <category><![CDATA[ Lake Oswego ]]></category>
+  <geo:lat>45.4161806</geo:lat>
+  <geo:long>-122.6639275</geo:long>
+</item>
+<item>
+  <title>Mazama Brewing</title>
+  <link>http://www.mazamabrewing.com</link>
+  <guid>201</guid>
+  <pubDate>Sat, 7 Dec 2013 19:15:00 -0700</pubDate>
+  <description>Tap Room</description>
+  <content:encoded><![CDATA[<address>33930 SE Eastgate Circle<br />
+Corvallis OR 97333</address>]]></content:encoded>
+  <category><![CDATA[ Corvallis ]]></category>
+  <geo:lat>44.5637115</geo:lat>
+  <geo:long>-123.2252628</geo:long>
+</item>
+<item>
+  <title>Kells Brew Pub</title>
+  <link>http://www.kellsbrewpub.com</link>
+  <guid>200</guid>
+  <pubDate>Sat, 7 Dec 2013 19:15:00 -0700</pubDate>
+  <description>Brew Pub</description>
+  <content:encoded><![CDATA[<address>210 NW 21st Ave<br />
+Portland OR 97210</address>]]></content:encoded>
+  <category><![CDATA[ Portland ]]></category>
+  <geo:lat>45.5245065</geo:lat>
+  <geo:long>-122.6942472</geo:long>
+</item>
+<item>
+  <title>Harvest Brewing</title>
+  <link>http://www.harvesterbrewing.com/</link>
+  <guid>200</guid>
+  <pubDate>Sat, 7 Dec 2013 19:15:00 -0700</pubDate>
+  <description>Gastropub</description>
+  <content:encoded><![CDATA[<address>2030 SE 7th St<br />
+Portland OR 97214</address>]]></content:encoded>
+  <category><![CDATA[ Portland ]]></category>
+  <geo:lat>45.508088699</geo:lat>
+  <geo:long>-122.6584941</geo:long>
+</item>
+<item>
+  <title>Ecliptic Brewing</title>
+  <link>http://eclipticbrewing.com/</link>
+  <guid>199</guid>
+  <pubDate>Sat, 7 Dec 2013 19:15:00 -0700</pubDate>
+  <description>Brewery</description>
+  <content:encoded><![CDATA[<address>825 North Cook St.<br />
+Portland, OR 97227</address>]]></content:encoded>
+  <category><![CDATA[ Portland ]]></category>
+  <geo:lat>45.5473404</geo:lat>
+  <geo:long>-122.6750989</geo:long>
+</item>
+<item>
+  <title>2 Towns Ciderhouse</title>
+  <link>http://2townsciderhouse.com/</link>
+  <guid>198</guid>
+  <pubDate>Sat, 7 Dec 2013 19:15:00 -0700</pubDate>
+  <description>Tasting Room</description>
+  <content:encoded><![CDATA[<address>33930 SE Eastgate Circle<br />
+Corvallis, OR 97333</address>]]></content:encoded>
+  <category><![CDATA[ Corvallis ]]></category>
+  <geo:lat>44.5637115</geo:lat>
+  <geo:long>-123.2252628</geo:long>
+</item>
 <item>
 	<title>Mt. Emily Alehouse</title>
 	<link>http://mtemilyalehouse.com/</link>
